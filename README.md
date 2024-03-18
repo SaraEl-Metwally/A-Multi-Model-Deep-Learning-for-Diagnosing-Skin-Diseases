@@ -9,7 +9,7 @@ Copyright (C) 2022-2024, and GNU GPL, by  <b> Mohamed Badr, Abdullah Elkasaby, M
 
 <ul>
 <li> <a href="https://github.com/SaraEl-Metwally/A-Multi-Model-Deep-Learning-for-Diagnosing-Skin-Diseases/blob/main/categories_Model_train.ipynb"> A Multi-Model Deep Learning Architecture Training Phase </a></li>
-
+<li> <a href="https://github.com/SaraEl-Metwally/A-Multi-Model-Deep-Learning-for-Diagnosing-Skin-Diseases/blob/main/Evaluation_Per_Model_in_System.ipynb"> A Multi-Model Deep Learning Architecture Testing Phase </a></li>
 
   
 </ul>
