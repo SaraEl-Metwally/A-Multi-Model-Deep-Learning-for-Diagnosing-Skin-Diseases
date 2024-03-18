@@ -4,3 +4,6 @@ Skin diseases pose a significant global public health concern, affecting 21–85
 
 Badr, M., Abdullah, A.,Alrahmawy, M., and El-Metwally, S.; <b> "A Multi-Model Deep Learning Architecture for Diagnosing Multi-Class Skin Diseases" </b> submitted to <b> neural computing and applications </b>, 2024.
 <br>
+
+Copyright (C) 2022-2024, and GNU GPL, by  <b> Mohamed Badr, Abdullah Elkasaby, Mohammed Alrahmawy, and Sara El-Metwally <b> </p>
+
