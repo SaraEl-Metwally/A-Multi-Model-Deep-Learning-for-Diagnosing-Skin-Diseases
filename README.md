@@ -7,3 +7,10 @@ Badr, M., Abdullah, A.,Alrahmawy, M., and El-Metwally, S.; <b> "A Multi-Model De
 
 Copyright (C) 2022-2024, and GNU GPL, by  <b> Mohamed Badr, Abdullah Elkasaby, Mohammed Alrahmawy, and Sara El-Metwally <b> </p>
 
+<ul>
+<li> <a href="https://github.com/SaraEl-Metwally/A-Multi-Model-Deep-Learning-for-Diagnosing-Skin-Diseases/blob/main/categories_Model_train.ipynb"> A Multi-Model Deep Learning Architecture Training Phase </a></li>
+
+
+  
+</ul>
+
