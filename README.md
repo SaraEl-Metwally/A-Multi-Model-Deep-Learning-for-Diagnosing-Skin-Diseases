@@ -10,7 +10,12 @@ Copyright (C) 2022-2024, and GNU GPL, by  <b> Mohamed Badr, Abdullah Elkasaby, M
 <ul>
 <li> <a href="https://github.com/SaraEl-Metwally/A-Multi-Model-Deep-Learning-for-Diagnosing-Skin-Diseases/blob/main/categories_Model_train.ipynb"> A Multi-Model Deep Learning Architecture Training Phase </a></li>
 <li> <a href="https://github.com/SaraEl-Metwally/A-Multi-Model-Deep-Learning-for-Diagnosing-Skin-Diseases/blob/main/Evaluation_Per_Model_in_System.ipynb"> A Multi-Model Deep Learning Architecture Testing Phase </a></li>
-
-  
+<li> <a href="https://drive.google.com/drive/folders/1-R0AaoY5IeF60exM8Az7iKgIhWyrgtEO?fbclid=IwAR2zqeLa36hcLIlcLn79SO5j2CEHSJ0Fq95XO6s3onvxPtPmbtLgrafrngg">  Acne and Rosacea saved in h5 format </a></li>
+ <li> <a href="https://drive.google.com/drive/folders/1i4vrNfTExUS94yL-w61LqW-B6RufJO_6?fbclid=IwAR2zqeLa36hcLIlcLn79SO5j2CEHSJ0Fq95XO6s3onvxPtPmbtLgrafrngg"> Atopic Dermatitis saved in h5 format </a> </li>
+<li> <a href="https://drive.google.com/drive/folders/1tBw1pf4RVsV2Ze21VXdq_ARJiUCUv423?fbclid=IwAR2zqeLa36hcLIlcLn79SO5j2CEHSJ0Fq95XO6s3onvxPtPmbtLgrafrngg"> Skin Cancer in h5 format </a> </li>
+<li> <a href="https://drive.google.com/drive/folders/1SmvIGRDH5EP_GLsf_KINoxu_nqOXyH3F?fbclid=IwAR2zqeLa36hcLIlcLn79SO5j2CEHSJ0Fq95XO6s3onvxPtPmbtLgrafrngg"> Bullous in h5 format </a> </li>
 </ul>
+
+
+
 
